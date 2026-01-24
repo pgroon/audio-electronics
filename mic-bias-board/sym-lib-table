@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "_HCF40106YM013TR")(type "KiCad")(uri "${KIPRJMOD}/01_LDC-symbols/HCF40106YM013TR.kicad_sym")(options "")(descr ""))
+  (lib (name "_PWR_CUSTOM")(type "KiCad")(uri "${KIPRJMOD}/01_LDC-symbols/PWR_CUSTOM.kicad_sym")(options "")(descr ""))
+)
