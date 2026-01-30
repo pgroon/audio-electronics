@@ -1,4 +1,4 @@
-27112241773743364
+27110474238742298
 01_Custom
 MouseBite_LR_3mm_inset
 
@@ -46,15 +46,8 @@ XLR-Pin-SolderPad
 
 
 0
-1
-1
-01_LDC-footprints
-SOIC127P600X175-14N
-SO-14-11
-Integrated Circuit
-0
-14
-14
+3
+3
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
