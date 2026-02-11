@@ -3589,8 +3589,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "237c672c-a104-4f97-b415-06c2120651ba")
-		(property "Reference" "TP_GND1"
-			(at 43.18 178.308 90)
+		(property "Reference" "GND1"
+			(at 43.18 174.752 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3641,7 +3641,7 @@
 		(instances
 			(project "head-amp"
 				(path "/7025f093-8497-445c-bb21-7e3d97d178d1"
-					(reference "TP_GND1")
+					(reference "GND1")
 					(unit 1)
 				)
 			)
@@ -3943,7 +3943,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
+		(property "Footprint" "Connector_Wire:SolderWire-0.25sqmm_1x01_D0.65mm_OD2mm"
 			(at 62.23 168.91 0)
 			(effects
 				(font
@@ -4058,7 +4058,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "50765c27-bbee-4cb3-8834-19b2fefa73e3")
-		(property "Reference" "Signal1"
+		(property "Reference" "SIGNAL1"
 			(at 48.26 32.512 0)
 			(effects
 				(font
@@ -4077,7 +4077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
+		(property "Footprint" "Connector_Wire:SolderWire-0.25sqmm_1x01_D0.65mm_OD2mm"
 			(at 48.26 39.37 0)
 			(effects
 				(font
@@ -4110,7 +4110,7 @@
 		(instances
 			(project "head-amp"
 				(path "/7025f093-8497-445c-bb21-7e3d97d178d1"
-					(reference "Signal1")
+					(reference "SIGNAL1")
 					(unit 1)
 				)
 			)
@@ -4126,7 +4126,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "529ae472-7eec-44fd-97ca-2c6bd9a7a3e9")
-		(property "Reference" "TP_VCC_2"
+		(property "Reference" "VCC2"
 			(at 120.65 51.3079 0)
 			(effects
 				(font
@@ -4177,7 +4177,7 @@
 		(instances
 			(project ""
 				(path "/7025f093-8497-445c-bb21-7e3d97d178d1"
-					(reference "TP_VCC_2")
+					(reference "VCC2")
 					(unit 1)
 				)
 			)
@@ -4413,7 +4413,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "658185a4-d8c2-4b26-9493-7b6e25a91064")
-		(property "Reference" "Backplate1"
+		(property "Reference" "BACKPLATE1"
 			(at 43.18 29.21 0)
 			(effects
 				(font
@@ -4432,7 +4432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
+		(property "Footprint" "Connector_Wire:SolderWire-0.25sqmm_1x01_D0.65mm_OD2mm"
 			(at 43.18 39.37 0)
 			(effects
 				(font
@@ -4441,7 +4441,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 43.18 39.37 0)
 			(effects
 				(font
@@ -4465,7 +4465,7 @@
 		(instances
 			(project ""
 				(path "/7025f093-8497-445c-bb21-7e3d97d178d1"
-					(reference "Backplate1")
+					(reference "BACKPLATE1")
 					(unit 1)
 				)
 			)
@@ -4568,7 +4568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
+		(property "Footprint" "Connector_Wire:SolderWire-0.25sqmm_1x01_D0.65mm_OD2mm"
 			(at 66.04 168.91 0)
 			(effects
 				(font
@@ -5413,7 +5413,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c5439a16-425c-4b6f-9b5e-6d965a71ae44")
-		(property "Reference" "TP_VCC_1"
+		(property "Reference" "VCC1"
 			(at 87.63 122.4279 0)
 			(effects
 				(font
@@ -5464,7 +5464,7 @@
 		(instances
 			(project "head-amp"
 				(path "/7025f093-8497-445c-bb21-7e3d97d178d1"
-					(reference "TP_VCC_1")
+					(reference "VCC1")
 					(unit 1)
 				)
 			)
@@ -5498,7 +5498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
+		(property "Footprint" "Connector_Wire:SolderWire-0.25sqmm_1x01_D0.65mm_OD2mm"
 			(at 58.42 168.91 0)
 			(effects
 				(font
