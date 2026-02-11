@@ -1,0 +1,35 @@
+{
+  "layout": {
+    "type": "grid",
+    "rows": 5,
+    "cols": 3,
+    "space": "0mm"
+  },
+  "tabs": {
+    "type": "full"
+  },
+  "cuts": {
+    "type": "vcuts",
+    "cutcurves": false,
+    "offset": "0mm",
+    "layer": "Edge.Cuts"
+  },
+  "framing": {
+    "type": "frame",
+    "width": "5mm",
+    "cuts": "h"
+  },
+  "tooling": {
+    "type": "4hole",
+    "size": "3.2mm",
+    "hoffset": "5mm",
+    "voffset": "5mm"
+  },
+  "fiducials": {
+    "type": "3fid",
+    "coppersize": "1mm",
+    "opening": "2mm",
+    "hoffset": "10mm",
+    "voffset": "5mm"
+  }
+}

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "01_HeadAmp_custom")(type "KiCad")(uri "${KIPRJMOD}/01_symols-custom/OPA1642AID.kicad_sym")(options "")(descr ""))
+)
