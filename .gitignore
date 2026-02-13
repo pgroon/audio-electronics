@@ -1,0 +1,104 @@
+
+#######################################
+# OS / Editor junk
+#######################################
+
+# Linux / macOS
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+.DS_Store
+
+#######################################
+# KiCad and FreeCAD auto-generated / cache files
+#######################################
+
+# Backup files
+*-backup.*
+*.kicad_pcb-bak
+*.sch-bak
+*.FCBak
+*-backups/
+
+# Autosave
+*.autosave
+
+# Local caches
+*.kicad_prl
+*.kicad_pro.user
+fp-info-cache
+sym-lib-table.local
+fp-lib-table.local
+
+#######################################
+# KiCad generated outputs
+#######################################
+
+# Fabrication outputs
+*.gbr
+*.gtl
+*.gbl
+*.gto
+*.gbo
+*.gts
+*.gbs
+*.gm1
+*.drl
+*.map
+*.pos
+*.rpt
+*.d356
+
+# IPC-2581
+*.xml
+
+# STEP exports
+*.step
+*.stp
+
+# 3D exports
+*.wrl
+
+# Drill / fab folders
+gerber_to_order/
+gerbers/
+panel/
+out/
+dist/
+*.panel.kicad_pcb
+
+#######################################
+# BOM / pick & place generated files
+#######################################
+
+*.csv
+*.xlsx
+*.ods
+pickplace/
+cpl/
+
+#######################################
+# Python / tooling
+#######################################
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+#######################################
+# Logs
+#######################################
+
+*.log
+
+#######################################
+# Temporary exports
+#######################################
+
+export/
+build/
+tmp/
