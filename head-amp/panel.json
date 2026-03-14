@@ -6,8 +6,8 @@
     "alternation": "cols",
     "renamenet": "Board_{n}-{orig}",
     "renameref": "{orig}",
-    "hspace": "2mm",
-    "vspace": "2mm"
+    "hspace": "3mm",
+    "vspace": "3mm"
   },
   "tabs": {
     "type": "fixed",
@@ -39,12 +39,11 @@
     "type": "mousebites",
     "drill": "0.5mm",
     "spacing": "0.8mm",
-    "offset": "-0.15mm",
+    "offset": "-0.1mm",
     "prolong": "0.5mm",
-    "layer": "Cmts_User"
   },
   "post": {
-    "millradius": "1mm"
+    "millradius": "1.2mm"
   }
 }
 
