@@ -21,6 +21,7 @@
 *.sch-bak
 *.FCBak
 *-backups/
+*.lck
 
 # Autosave
 *.autosave
